@@ -1,8 +1,8 @@
 
 /* Your CSS Code here. */
 main {
-  margin: 0px;
-  padding: 5px;
+/*   margin: 0px;
+  padding: 5px; */
   background-color: black;
   width:150px;
   height: 150px;
@@ -10,7 +10,7 @@ main {
 }
 .hello-accio-job{
 	color:white;
-	margin: 32px;
-  padding: 10px;
+/* 	margin: 32px;
+  padding: 10px; */
 	
 }
